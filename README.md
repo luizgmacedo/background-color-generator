@@ -1,1 +1,3 @@
-# background-color-generator
+# Background Color Generator
+
+## 🧮 Simple background color generator
